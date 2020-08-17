@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <mt-header id="header" fixed title="Code7s Vue项目">
+    <mt-header id="header" fixed title=" Vue项目">
       <span slot="left" v-show="flag" @click="goback">
         <mt-button icon="back">返回</mt-button>
       </span>

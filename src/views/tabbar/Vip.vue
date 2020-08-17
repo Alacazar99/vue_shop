@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>vip功能尚未完成...</h1>
+    <h1>vip功能尚开发中...</h1>
   </div>
 </template>
 
